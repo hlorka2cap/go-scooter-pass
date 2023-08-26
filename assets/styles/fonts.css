@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Scooter';
+    font-style: normal;
+    font-weight: 400;
+    src: url("assets/fonts/text-regular.woff");
+}
+
+@font-face {
+    font-family: 'Scooter';
+    font-style: normal;
+    font-weight: 500;
+    src: url("assets/fonts/text-medium.woff");
+}
+
+@font-face {
+    font-family: 'Scooter';
+    font-style: normal;
+    font-weight: 900;
+    src: url("assets/fonts/text-black.woff");
+}
+
