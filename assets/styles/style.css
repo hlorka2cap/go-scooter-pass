@@ -14,7 +14,8 @@ body {
     font-family: Scooter, sans-serif;
 }
 
-/* TODO: px to rem - ready*/
+/* TODO: px to rem - ready */
+/* TODO: maybe percentages to rem too? */
 h1 {
     font-size: 4.5rem;
     font-weight: 900;
@@ -128,4 +129,10 @@ p {
     border-radius: 2.25rem;
     box-shadow: 0rem 0.25rem 6.125rem 0rem rgba(255, 222, 64, 0.59);
     font-weight: 500;
+}
+
+.circle-text {
+	position: absolute;
+	left: 14.2rem;
+	top: 22.25rem;
 }
